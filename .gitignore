@@ -14,3 +14,5 @@ src/
 target/
 npm-debug.log
 reports/
+.idea/
+*.iml
